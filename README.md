@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mouad Ait Ouaarab! 
 
-    Full Stack Developer | Web Enthusiast | Freelancer  
+ <h2> Full Stack Developer | Web Enthusiast | Freelancer <h2>
 
 I'm passionate about web development, digital marketing, and problem-solving. I specialize in building modern and responsive web applications with the latest technologies.
 
