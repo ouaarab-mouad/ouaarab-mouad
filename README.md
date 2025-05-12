@@ -17,6 +17,8 @@ I'm passionate about web development, digital marketing, and problem-solving. I 
 
 ### 🛠️ Tech Stack & Tools:
 
+### 🛠️ Tech Stack & Tools:
+
 #### **Programming & Markup Languages:**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,6 +50,18 @@ I'm passionate about web development, digital marketing, and problem-solving. I 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+### 🚀 Deployment:
+- 🟢 **Microsoft Azure**
+- 🟢 **Netlify**
+- 🟢 **Vercel**
+- 🟢 **cPanel / Shared Hosting**
+- 🟢 **GitHub Pages**
+- 🟢 **Heroku (legacy projects)**
+
 
 ---
 
