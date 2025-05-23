@@ -1,165 +1,188 @@
-# 👨‍💻 Mouad Ait Ouaarab
-
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Web+Enthusiast+%7C+Freelancer;Building+Modern+Web+Solutions)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Mouad%20Ait%20Ouaarab&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Web%20Enthusiast%20%7C%20Freelancer&descSize=20&descAlignY=75"/>
 </div>
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=ouaarab-mouad&color=0891b2&style=flat-square&label=Profile+Views)](https://github.com/ouaarab-mouad)
-[![GitHub followers](https://img.shields.io/github/followers/ouaarab-mouad?color=0891b2&style=flat-square&logo=github)](https://github.com/ouaarab-mouad)
-[![Years Badge](https://badges.pufler.dev/years/ouaarab-mouad?style=flat-square&color=0891b2)](https://github.com/ouaarab-mouad)
+  <!-- Animated typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Building+scalable+web+applications;💡+Turning+ideas+into+digital+reality;⚡+Clean+code+%26+performance+optimization;🎯+Always+learning+new+technologies" alt="Typing SVG" />
+  
+</div>
+
+<!-- Profile views and badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ouaarab-mouad&style=for-the-badge&color=667eea" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ouaarab-mouad?style=for-the-badge&color=667eea&labelColor=1a1b27" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-667eea?style=for-the-badge&labelColor=1a1b27" alt="Focus"/>
+</div>
+
+<br/>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/ouaarab-mouad/ouaarab-mouad/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+  About Me 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</h2>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```javascript
+const mouad = {
+    location: "Morocco 🇲🇦",
+    role: "Full Stack Developer",
+    company: "Freelancer",
+    
+    code: ["JavaScript", "TypeScript", "PHP", "Python"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Sass"]
+        },
+        backEnd: {
+            php: ["Laravel"],
+            js: ["Node.js", "Express"]
+        },
+        databases: ["MySQL", "MongoDB"],
+        tools: ["Docker", "Git", "Figma", "Postman"]
+    },
+    
+    architecture: ["MVC", "REST APIs", "Microservices"],
+    currentChallenge: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+<br clear="both" />
+
+---
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+  Tech Stack & Skills
+</h2>
+
+<div align="center">
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,figma&theme=dark" />
+
+### ⚙️ Backend Development  
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,mysql,mongodb&theme=dark" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,azure,netlify,vercel&theme=dark" />
+
+### 📱 Additional Skills
+<img src="https://skillicons.dev/icons?i=wordpress,photoshop,linux,bash&theme=dark" />
 
 </div>
 
 ---
 
-## 🌟 About Me
-
-```typescript
-const mouad = {
-    pronouns: "He/Him",
-    role: "Full Stack Developer",
-    location: "Morocco 🇲🇦",
-    focus: ["Web Development", "Digital Marketing", "Problem Solving"],
-    
-    currentlyWorking: "Building modern and responsive web applications",
-    currentlyLearning: "Advanced React patterns & Cloud technologies",
-    
-    funFact: "I turn coffee ☕ into code 💻"
-};
-```
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
+  Featured Projects
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50">
+</h2>
 
 <div align="center">
 
-### 🚀 **What I Do**
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-### 💻 Full Stack Development
-Building scalable web applications with **React.js**, **Laravel**, **Next.js**, and **Node.js**
+### 🛍️ ElectroTiti
+**E-commerce Platform for Electronics**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+*Full-featured e-commerce platform with shopping cart, payment integration, and admin dashboard.*
+
+[🔗 **Live Demo**](https://github.com/ouaarab-mouad/ElectroTiti) | [📱 **Source Code**](https://github.com/ouaarab-mouad/ElectroTiti)
 
 </td>
-<td align="center" width="33%">
+<td width="50%">
 
-### 🎯 Landing Pages
-Creating **high-converting** landing pages optimized for performance and user experience
+### 💡 MindFuel  
+**Motivational Platform**
 
-</td>
-<td align="center" width="33%">
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🎨 UI/UX Design
-Crafting beautiful interfaces with **Figma** and modern design principles
+*Platform for inspiration & personal growth with interactive content and user engagement features.*
+
+[🔗 **Live Demo**](https://github.com/ouaarab-mouad/MindFuel) | [📱 **Source Code**](https://github.com/ouaarab-mouad/MindFuel)
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🌐 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### 🎨 Styling & UI
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚙️ Backend Technologies
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Development Tools
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### ☁️ Cloud & Deployment
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-### 📋 Project Management
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+  GitHub Analytics
+</h2>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ouaarab-mouad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouaarab-mouad&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
+</div>
 
-| 🛍️ **ElectroTiti** | 💡 **MindFuel** | 🏊 **Levre Pool Reviews** |
-|:---:|:---:|:---:|
-| E-commerce platform for phones & accessories | Motivational platform for inspiration & growth | Responsive website for pool product reviews |
-| `React` `Laravel` `MySQL` | `Next.js` `Node.js` `MongoDB` | `HTML5` `CSS3` `JavaScript` |
-| [🔗 View Project](https://github.com/ouaarab-mouad/ElectroTiti) | [🔗 View Project](https://github.com/ouaarab-mouad/MindFuel) | [🔗 View Project](https://github.com/ouaarab-mouad/) |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ouaarab-mouad&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=667EEA&currStreakLabel=667EEA" alt="GitHub Streak Stats"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouaarab-mouad&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  GitHub Trophies
+</h2>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ouaarab-mouad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ouaarab-mouad&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouaarab-mouad&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ouaarab-mouad&theme=tokyo-night&hide_border=true&area=true" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=ouaarab-mouad&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+  Let's Connect & Build Something Amazing!
+</h2>
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ouaarab-mouad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+### 🌟 Ready to collaborate? Let's create the next big thing together!
 
-</div>
-
----
-
-## 🌍 Connect & Collaborate
-
-<div align="center">
-
-### 📬 **Let's Build Something Amazing Together!**
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:warabmoad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouad-ouaarab/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ouaarab-mouad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+<a href="mailto:warabmoad@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/mouad-ouaarab/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ouaarab-mouad">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -167,9 +190,9 @@ Crafting beautiful interfaces with **Figma** and modern design principles
 
 <div align="center">
 
-### 💭 **Quote of the Day**
+### 🎯 Current Status
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=🔥+Available+for+freelance+projects;💼+Open+to+full-time+opportunities;🚀+Building+amazing+web+experiences;📚+Always+learning+new+technologies" alt="Current Status" />
 
 </div>
 
@@ -177,12 +200,26 @@ Crafting beautiful interfaces with **Figma** and modern design principles
 
 <div align="center">
 
-**⭐ From [ouaarab-mouad](https://github.com/ouaarab-mouad) with ❤️**
+### 💝 Support My Work
 
-<img src="https://komarev.com/ghpvc/?username=ouaarab-mouad&style=flat-square&color=blue" alt=""/>
+<a href="https://www.buymeacoffee.com/mouadouaarab" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+</a>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<div align="center">
+  
+**⭐ Don't forget to star my repositories if they helped you!**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+<br/>
+
+**Made with ❤️ by Mouad Ait Ouaarab**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+</div>
