@@ -1,189 +1,173 @@
-# 🚀 Mouad Ait Ouaarab
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=🌟+Full+Stack+Developer+%26+Digital+Architect;💡+Crafting+Scalable+Web+Solutions;⚡+React+%7C+Laravel+%7C+Node.js+Expert;🎯+Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=300&section=header&text=Welcome%20to%20My%20Code%20Universe&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=25&descAlignY=75&descAlign=50)
-
-</div>
-
-<br/>
+# 🌟 Mouad Ait Ouaarab
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ouaarab-mouad&style=for-the-badge&color=blueviolet&labelColor=black)
-![GitHub followers](https://img.shields.io/github/followers/ouaarab-mouad?style=for-the-badge&color=blue&labelColor=black)
-![GitHub User's stars](https://img.shields.io/github/stars/ouaarab-mouad?style=for-the-badge&color=yellow&labelColor=black)
-![Years Badge](https://badges.pufler.dev/years/ouaarab-mouad?style=for-the-badge&color=green&labelColor=black)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=fadeIn&desc=Crafting%20Digital%20Excellence&descSize=16&descAlignY=75"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4FACFE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+Tomorrow's+Web+Today;💻+React+•+Laravel+•+Node.js+Expert;⚡+Turning+Ideas+Into+Reality)](https://git.io/typing-svg)
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ouaarab-mouad&style=for-the-badge&color=4facfe&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/github/followers/ouaarab-mouad?style=for-the-badge&color=4facfe&labelColor=1a1a1a&logo=github"/>
+  <img src="https://img.shields.io/github/stars/ouaarab-mouad?style=for-the-badge&color=f093fb&labelColor=1a1a1a&logo=github"/>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🎭 **About Me**
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+## 🧬 **Developer DNA**
 
-```typescript
-class MouadAitOuaarab {
-    constructor() {
-        this.name = "Mouad Ait Ouaarab";
-        this.location = "Morocco 🇲🇦";
-        this.role = "Full Stack Developer";
-        this.company = "Freelancer & Innovation Catalyst";
-        this.mission = "Transforming ideas into exceptional digital experiences";
-        this.codeStyle = "Clean, Scalable, Future-Ready";
-    }
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="30"/>
+<br/><strong>FAST LEARNER</strong>
+<br/>Rapidly adapting to new tech
+</td>
+<td align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30"/>
+<br/><strong>COMMUNICATOR</strong>
+<br/>Clear code, clearer docs
+</td>
+<td align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/laptop.gif?raw=true" width="30"/>
+<br/><strong>PROBLEM SOLVER</strong>
+<br/>Complex challenges, simple solutions
+</td>
+<td align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/sweet.gif?raw=true" width="30"/>
+<br/><strong>INNOVATOR</strong>
+<br/>Always pushing boundaries
+</td>
+</tr>
+</table>
 
-    getCurrentFocus() {
-        return {
-            🔥 learning: ["Microservices", "DevOps", "Cloud Architecture"],
-            🚀 building: ["SaaS Applications", "E-commerce Platforms"],
-            🌱 exploring: ["AI Integration", "Blockchain", "Web3"],
-            💼 seeking: ["Exciting Projects", "Tech Partnerships"],
-            ☕ fuel: "Premium Coffee & Late Night Coding Sessions"
-        };
-    }
+</div>
 
-    getSkillMatrix() {
-        return {
-            frontend: {
-                expert: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-                proficient: ["Vue.js", "Angular", "SASS/SCSS"],
-                tools: ["Vite", "Webpack", "Figma", "Adobe XD"]
-            },
-            backend: {
-                expert: ["Laravel", "Node.js", "Express", "PHP"],
-                proficient: ["Python", "Django", "Java", "Spring Boot"],
-                databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-                cloud: ["AWS", "DigitalOcean", "Vercel", "Netlify"]
-            },
-            mobile: ["React Native", "Flutter"],
-            devops: ["Docker", "CI/CD", "GitHub Actions", "Linux"],
-            architecture: ["Microservices", "RESTful APIs", "GraphQL"]
-        };
-    }
-}
+<img align="right" alt="Coding" width="400" height="300" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
 
-const developer = new MouadAitOuaarab();
-console.log("🌟 Ready to build something amazing together!");
+```javascript
+const mouadDeveloper = {
+  name: "Mouad Ait Ouaarab",
+  location: "Morocco 🇲🇦",
+  title: "Full Stack Developer & Digital Architect",
+  
+  expertise: {
+    frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
+    backend: ["Laravel", "Node.js", "Express", "Python"],
+    mobile: ["React Native", "Flutter"],
+    cloud: ["AWS", "DigitalOcean", "Docker"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"]
+  },
+  
+  currentMission: "Building scalable solutions that matter",
+  
+  workingOn: [
+    "🔥 SaaS Platform Development",
+    "🌐 E-commerce Solutions", 
+    "📱 Mobile Applications",
+    "🤖 AI Integration Projects"
+  ],
+  
+  funFact: "I debug with console.log and I'm not ashamed! 🐛",
+  
+  getMotivation() {
+    return "Transforming complex problems into elegant solutions ✨";
+  }
+};
+
+console.log("Ready to build something amazing! 🚀");
 ```
 
 <br clear="both"/>
 
 ---
 
-## 🛠️ **Technology Stack**
-
 <div align="center">
 
-### **Frontend Arsenal**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,bootstrap,figma,vite&theme=dark" />
-</p>
+## 🛠️ **Tech Arsenal**
 
-### **Backend Powerhouse** 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,java,spring,mysql,postgresql,mongodb,redis&theme=dark" />
-</p>
+### Frontend Mastery
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,bootstrap&theme=dark" />
 
-### **DevOps & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,gitlab,jenkins,linux,bash,postman,vscode,nginx&theme=dark" />
-</p>
+### Backend Excellence  
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,django,mysql,postgresql,mongodb,redis&theme=dark" />
 
-### **Mobile & Design**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase,wordpress,photoshop,illustrator,blender&theme=dark" />
-</p>
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,linux,vscode,postman,figma,webpack&theme=dark" />
 
 </div>
 
 ---
 
-## 💼 **Featured Projects**
-
 <div align="center">
+
+## 🎯 **Featured Projects**
 
 <table>
 <tr>
-<td width="50%">
-<div align="center">
+<td width="50%" valign="top">
 
-### 🚗 **Car Rental System**
-[![Car Rent Demo](https://img.shields.io/badge/🚗%20Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ouaarab-mouad/Car_Rent)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ouaarab-mouad/Car_Rent)
+### 🚗 **Car Rental Platform**
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/Type-Full%20Stack-blue?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
+**🔧 Tech Stack:** React • Laravel • MySQL • Stripe
 
-**Enterprise-grade vehicle management platform with advanced booking system, payment integration, and real-time analytics.**
+Advanced vehicle management system with real-time booking, payment processing, and comprehensive admin dashboard. Features include dynamic pricing, availability tracking, and automated notifications.
 
-</div>
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-4FACFE?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ouaarab-mouad/Car_Rent)
+[![Code](https://img.shields.io/badge/📂%20Source-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ouaarab-mouad/Car_Rent)
+
 </td>
-<td width="50%">
-<div align="center">
+<td width="50%" valign="top">
 
-### ⚡ **ElectroTiti**
-[![ElectroTiti Demo](https://img.shields.io/badge/⚡%20Live%20Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ouaarab-mouad/ElectroTiti)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ouaarab-mouad/ElectroTiti)
+### ⚡ **ElectroTiti E-commerce**
+<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/Type-E--commerce-orange?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white"/>
+**🔧 Tech Stack:** React • Laravel • Tailwind • PayPal
 
-**Modern e-commerce platform with intelligent product recommendations, secure payments, and advanced inventory management.**
+Modern electronics marketplace with intelligent search, wishlist functionality, secure checkout, and inventory management. Optimized for performance and user experience.
 
-</div>
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-F093FB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ouaarab-mouad/ElectroTiti)
+[![Code](https://img.shields.io/badge/📂%20Source-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ouaarab-mouad/ElectroTiti)
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<div align="center">
+<td width="50%" valign="top">
 
-### 🧠 **MindFuel**
-[![MindFuel Demo](https://img.shields.io/badge/🧠%20Live%20Demo-96CEB4?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ouaarab-mouad/MindFuel)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ouaarab-mouad/MindFuel)
+### 🧠 **MindFuel Platform**  
+<img src="https://img.shields.io/badge/Status-Development-yellow?style=flat-square&logo=vercel"/>
+<img src="https://img.shields.io/badge/Type-SaaS-purple?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+**🔧 Tech Stack:** Next.js • Node.js • MongoDB • TypeScript
 
-**AI-powered personal development platform with progress tracking, goal setting, and community engagement features.**
+AI-powered personal development platform featuring progress tracking, goal management, and community features. Built with modern architecture and scalable design patterns.
 
-</div>
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/ouaarab-mouad/MindFuel)
+[![Code](https://img.shields.io/badge/📂%20Source-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ouaarab-mouad/MindFuel)
+
 </td>
-<td width="50%">
-<div align="center">
+<td width="50%" valign="top">
 
-### 🎯 **More Projects**
-[![Portfolio](https://img.shields.io/badge/🚀%20View%20All-FECA57?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ouaarab-mouad?tab=repositories)
+### 🌟 **More Projects**
+<img src="https://img.shields.io/badge/Portfolio-15%2B%20Projects-success?style=flat-square&logo=github"/>
 
-**Explore my complete collection of:**
-- 🌐 **Web Applications**
-- 📱 **Mobile Apps** 
-- 🔧 **Developer Tools**
-- 🎨 **UI/UX Projects**
-- 📚 **Learning Resources**
+Explore my complete collection of web applications, mobile apps, developer tools, and open-source contributions. Each project demonstrates different aspects of modern development practices.
 
-*Each project showcases different aspects of modern development practices and innovative solutions.*
+**Highlights:**
+- 🌐 Progressive Web Apps
+- 📱 Cross-platform Mobile Apps  
+- 🔧 Developer Productivity Tools
+- 🎨 UI/UX Design Systems
 
-</div>
+[![View All](https://img.shields.io/badge/🚀%20Explore%20Portfolio-FECA57?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ouaarab-mouad?tab=repositories)
+
 </td>
 </tr>
 </table>
@@ -192,69 +176,66 @@ console.log("🌟 Ready to build something amazing together!");
 
 ---
 
-## 📊 **GitHub Statistics**
-
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ouaarab-mouad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=4ECDC4&text_color=FFFFFF&custom_title=Mouad's%20GitHub%20Analytics"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouaarab-mouad&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&card_width=320"/>
+## 📊 **GitHub Analytics**
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=ouaarab-mouad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4FACFE&icon_color=F093FB&text_color=FFFFFF&ring_color=4FACFE"/>
+
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouaarab-mouad&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4FACFE&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ouaarab-mouad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=4ECDC4&fire=FECA57&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+<br/>
 
-</div>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ouaarab-mouad&theme=react&hide_border=true&background=0D1117&stroke=4FACFE&ring=F093FB&fire=FECA57&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ouaarab-mouad&bg_color=0d1117&color=4ecdc4&line=00d9ff&point=feca57&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline" width="100%"/>
+<br/>
 
-</div>
-
----
-
-## 🏆 **Achievements & Recognition**
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=ouaarab-mouad&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Followers,Stars"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ouaarab-mouad&bg_color=0d1117&color=4facfe&line=f093fb&point=feca57&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## 🎯 **Current Goals & Learning Path**
+<div align="center">
+
+## 🏆 **Achievement Showcase**
+
+<img src="https://github-profile-trophy.vercel.app/?username=ouaarab-mouad&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+
+</div>
+
+---
 
 <div align="center">
+
+## 🎯 **Current Focus & Goals**
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"/>
-<br><strong>🚀 Mastering</strong>
-<br>Microservices Architecture
-<br>Cloud-Native Development
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" height="100"/>
+<h3>🚀 Learning</h3>
+<p><strong>Microservices Architecture</strong><br/>
+Advanced Cloud Patterns<br/>
+AI/ML Integration</p>
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
-<br><strong>🔨 Building</strong>
-<br>Scalable SaaS Platforms
-<br>AI-Powered Applications
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" height="100"/>
+<h3>🔨 Building</h3>
+<p><strong>SaaS Platforms</strong><br/>
+E-commerce Solutions<br/>
+Mobile Applications</p>
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
-<br><strong>🌱 Exploring</strong>
-<br>Blockchain Technology
-<br>Machine Learning
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80"/>
-<br><strong>🤝 Contributing</strong>
-<br>Open Source Projects
-<br>Tech Community
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="100"/>
+<h3>🌱 Growing</h3>
+<p><strong>Open Source</strong><br/>
+Community Building<br/>
+Knowledge Sharing</p>
 </td>
 </tr>
 </table>
@@ -263,86 +244,44 @@ console.log("🌟 Ready to build something amazing together!");
 
 ---
 
-## 🌐 **Let's Connect & Collaborate**
-
 <div align="center">
 
-### 🚀 **Ready to Build Something Extraordinary?**
+## 🤝 **Let's Connect & Collaborate**
 
 <a href="mailto:warabmoad@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/mouad-ouaarab/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/ouaarab-mouad">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=💼+Available+for+Exciting+Projects;🌟+Open+to+Collaboration+Opportunities;🚀+Let's+Build+the+Future+Together;📧+Always+Happy+to+Connect!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&width=500&lines=💼+Open+for+exciting+opportunities;🤝+Available+for+collaboration;🚀+Let's+build+something+amazing!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💡 **Developer Wisdom**
-
 <div align="center">
 
-### 🎭 **Code Philosophy**
+## ☕ **Support My Work**
 
-> *"First, solve the problem. Then, write the code."* - John Johnson
-
-<table>
-<tr>
-<td align="center">🎮</td>
-<td><strong>Debugging Style:</strong> console.log() detective work</td>
-</tr>
-<tr>
-<td align="center">☕</td>
-<td><strong>Fuel of Choice:</strong> Coffee at 2 AM coding sessions</td>
-</tr>
-<tr>
-<td align="center">🔍</td>
-<td><strong>Best Friend:</strong> Stack Overflow & GitHub Copilot</td>
-</tr>
-<tr>
-<td align="center">🎯</td>
-<td><strong>Superpower:</strong> Turning "it works on my machine" into production gold</td>
-</tr>
-<tr>
-<td align="center">🌟</td>
-<td><strong>Mission:</strong> Writing code that future me will thank present me for</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## ☕ **Support My Journey**
-
-<div align="center">
-
-### 💖 **Fuel the Code**
+<p>If you find my projects helpful, consider buying me a coffee!</p>
 
 <a href="https://www.buymeacoffee.com/mouadouaarab" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
 </a>
 
 <br/><br/>
 
-**⭐ If my work helped you, consider starring my repositories!**
-<br/>
-**🤝 Open to freelance projects and full-time opportunities**
+**⭐ Star my repositories if they helped you!**
 
 </div>
 
@@ -350,12 +289,16 @@ console.log("🌟 Ready to build something amazing together!");
 
 <div align="center">
 
-**Made with 💖, ☕, and countless hours of passionate coding**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&animation=fadeIn"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=120&section=footer&animation=twinkling)
+**🌟 Thanks for visiting! Let's create something extraordinary together! 🚀**
 
-**🌟 Thanks for visiting! Let's connect and create something amazing together! 🚀**
+<sub>Made with ❤️ and lots of ☕ | Last Updated: May 2025</sub>
 
-*Last updated: May 2025*
+</div>
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
