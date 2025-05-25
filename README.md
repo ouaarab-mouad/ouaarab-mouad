@@ -23,22 +23,22 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="30"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
 <br/><strong>FAST LEARNER</strong>
 <br/>Rapidly adapting to new tech
 </td>
 <td align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/>
 <br/><strong>COMMUNICATOR</strong>
 <br/>Clear code, clearer docs
 </td>
 <td align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/laptop.gif?raw=true" width="30"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50"/>
 <br/><strong>PROBLEM SOLVER</strong>
 <br/>Complex challenges, simple solutions
 </td>
 <td align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/sweet.gif?raw=true" width="30"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50"/>
 <br/><strong>INNOVATOR</strong>
 <br/>Always pushing boundaries
 </td>
@@ -90,6 +90,9 @@ console.log("Ready to build something amazing! 🚀");
 
 ## 🛠️ **Tech Arsenal**
 
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100" align="left"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" height="100" align="right"/>
+
 ### Frontend Mastery
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,bootstrap&theme=dark" />
 
@@ -98,6 +101,8 @@ console.log("Ready to build something amazing! 🚀");
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,linux,vscode,postman,figma,webpack&theme=dark" />
+
+<br clear="both"/>
 
 </div>
 
@@ -217,21 +222,21 @@ Explore my complete collection of web applications, mobile apps, developer tools
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" height="100"/>
 <h3>🚀 Learning</h3>
 <p><strong>Microservices Architecture</strong><br/>
 Advanced Cloud Patterns<br/>
 AI/ML Integration</p>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" height="100"/>
 <h3>🔨 Building</h3>
 <p><strong>SaaS Platforms</strong><br/>
 E-commerce Solutions<br/>
 Mobile Applications</p>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" height="100"/>
 <h3>🌱 Growing</h3>
 <p><strong>Open Source</strong><br/>
 Community Building<br/>
@@ -246,7 +251,11 @@ Knowledge Sharing</p>
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
+
 ## 🤝 **Let's Connect & Collaborate**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"/>
 
 <a href="mailto:warabmoad@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
